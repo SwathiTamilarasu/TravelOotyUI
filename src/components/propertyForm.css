@@ -1,0 +1,27 @@
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+  color: #1d806e !important;
+}
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+  color: #1d806e !important;
+}
+.css-z7uhs0-MuiStepConnector-line {
+  border-top-width: 4px !important;
+}
+.css-ahj2mt-MuiTypography-root {
+  font-size: 16px !important;
+}
+.css-3hx8qc-MuiButtonBase-root-MuiCheckbox-root.Mui-checked,
+.css-3hx8qc-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+  color: #2c74ef !important;
+}
+.showError{    
+  border-color: red !important;     
+  margin-bottom: 15px;    
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
