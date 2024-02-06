@@ -356,8 +356,8 @@ export default function Home() {
               }}
             >
               Pick your destination and we'll provide you
-               the <br/> most affordable stays
-            </p>
+               the <br/> most affordable stays...            
+               </p>
 
             </div>
             <div className={classes.centered}>
